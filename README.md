@@ -1,3 +1,3 @@
 # CommonInk
 
-A description of this package.
+Markdown parser with cmark while has Ink interface.
